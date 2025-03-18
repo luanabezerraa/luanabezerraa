@@ -1,6 +1,6 @@
 👋 Olá, eu sou Luana!
 
-Sou uma entusiasta da área de dados, apaixonada por resolver problemas e transformar informações em insights valiosos. Busco constantemente aprender e aplicar conhecimentos que otimizem processos e gerem impacto positivo.
+Sou uma entusiasta da área de dados, apaixonada por resolver problemas e modelar/manipular dados. Busco constantemente aprender e aplicar conhecimentos que otimizem processos e gerem impacto positivo.
 
 
 🚀 Minha Jornada na Tecnologia
@@ -18,11 +18,9 @@ Atualmente, trabalho na Agilent Technologies como Assistente Administrativo, ond
 
 ↳ Organização e otimização de processos;
 
-↳ Manipulação e análise de dados para suporte à tomada de decisão;
-
 ↳ Trabalho em equipe e resolução de problemas;
 
-↳ Uso de ferramentas como Excel, Power BI e SQL para análise de dados.
+↳ Uso de ferramentas como Excel para organização de documentos internos.
 
 Anteriormente, trabalhei como Auxiliar Contábil, onde comecei a minha jornada no mercado de trabalho, em janeiro de 2024.
 
